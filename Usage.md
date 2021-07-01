@@ -50,7 +50,11 @@ All the steps here are same, just one key difference is that, according to name,
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_5.png)
 
 
+## Frames/Rectangles
 
+Step 1: Create a rectangle with name as Frame and its done.
+
+![Image]((https://github.com/saksham-lussqvx/images/blob/master/tutorial_6.png)
 
 
 
