@@ -1,6 +1,7 @@
 # Usage
 Each element in Figma has name, whether its text or a simple rectangle. This program creates all elements solely based on names. It cannot define name on its own, due to which its important to follow naming system. You can find all element names over here:
-![Image](![image](https://github.com/saksham-lussqvx/images/blob/master/img_fig_names.png)
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/img_fig_names.png)
 
 # Naming System
 This is how each element should be named
