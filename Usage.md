@@ -90,6 +90,37 @@ Step 3: Group the text/picture and the button rectangle and rename it whole as B
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_11.gif)
 
 
+## Pictures
+Pictures are one of the most used elements when it comes to GUI, as you can make any graphical elements with it and include it.NOTE: do not use this type for background as separate function exists for that. Also one more thing, if your picture has shap other than square and rectangle or it is background-less, then use 2nd type of function or in tkinter, borders will show white color.
+
+1. Picture without matching background
+
+Step 1: Create a rectangle named Picture (You can also use Figma elements as pictures, such as rounded corner rectangles).
+
+Step 2: Copy the picture from its source and paste it in the rectangle or if Figma element is used then skip this step.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_11.png)
+
+
+2. Picture with matching background
+
+Step 1: Create a rectangle named Picture_bg_1 which will have the color same as the background(or whatever it is displayed upon) and then create another rectangle with name Picture_1. Remember to create bg rectangle first or it will overlay onto other elements.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_12.png)
+
+
+Step 2: Copy the picture from its source and paste it in the rectangle or if Figma element is used then skip this step.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
