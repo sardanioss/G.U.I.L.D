@@ -112,9 +112,12 @@ Step 1: Create a rectangle named Picture_bg_1 which will have the color same as 
 Step 2: Copy the picture from its source and paste it in the rectangle or if Figma element is used then skip this step.
 
 
+## Background
+You can create background very easily and you can even have more than 1 background in single slide. Also, you can create gradient color frames and then use them as background.
 
+Step 1: Create a rectangle and name it Background, then, if its a photo, copy-paste it into the rectangle or change its color.
 
-
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_13.png)
 
 
 
