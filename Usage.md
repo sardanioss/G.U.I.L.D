@@ -27,6 +27,7 @@ This is how each element should be named
 ## Text
 I'll show you two methods to create text, both are although same, just a bit of difference in naming.
 1. Texts with same background color
+
 Step 1: Give the frame a color and then create a small rectangle of name = Text_color_1 and of the same color and place it where you'll place your text.
 
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_2.png)
@@ -37,9 +38,16 @@ Step 2: Create a text element and give it name Text_1
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_3.png)
 
 
+Step 3: Here now you can use the name rectangle if your background has to be of same color and name should be the same as previous one.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_4.png)
 
 
+2. Texts with different bakground color
 
+All the steps here are same, just one key difference is that, according to name, the colors are used.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_5.png)
 
 
 
