@@ -3,7 +3,7 @@ Each element in Figma has name, whether its text or a simple rectangle. This pro
 
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/img_fig_names.png)
 
-# Naming System
+## Naming System
 This is how each element should be named
 
 1. Text - To create text type element you have to write Text_ + corresponding number such as = Text_1, Text_2, etc. Also, in text if the background has non-white color then you need to draw a small rectangle which you can embed into the background and name it as - Text_color_ + corresponding text element number such as = Text_color_1, Text_color_2, etc.
@@ -21,3 +21,45 @@ This is how each element should be named
 7. Line - To create a line type element you have to write Line. For now only straight lines are supporting, you cannot use lines other than at the angle of 90/-90 degrees.
 
 8. Menubox - To create a Menubox type element you have to write Menubox_ + corresponding number such as = Menubox_1 and after that its important to create two more elements which are Menubox Text and a Menubox elements List such as = Menubox_1(a rectangle), Menubox_text_1(text type element) and Menubox_list_1 (a list which contains names to add such as element1, element2, etc.).
+
+# Creating each element
+
+## Text
+I'll show you two methods to create text, both are although same, just a bit of difference in naming.
+1. Texts with same background color
+Step 1: Give the frame a color and then create a small rectangle of name = Text_color_1 and of the same color and place it where you'll place your text.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_2.png)
+
+
+Step 2: Create a text element and give it name Text_1
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
