@@ -7,6 +7,17 @@ Each element in Figma has name, whether its text or a simple rectangle. This pro
 This is how each element should be named
 
 1. Text - To create text type element you have to write Text_ + corresponding number such as = Text_1, Text_2, etc. Also, in text if the background has non-white color then you need to draw a small rectangle which you can embed into the background and name it as - Text_color_ + corresponding text element number such as = Text_color_1, Text_color_2, etc.
+
 2. Rectangles/Frames - To create rectangle type element you have to write Frame (Only one color should be used as background color).
-3. Button - To create button type element you have to write Button_+ type of button + _ + corresponding number such as = Button_R_1 (for rounded type button) or Button_NR_1 (for non-rounded type button) (only two are supported for now), also you need to write Button Text too which should be written in the format - B_ + corresponding button number such as B_1, B_2, etc.
-4. 
+
+3. Button - To create button type element you have to write Button_+ type of button + _ + corresponding number such as = Button_R_1 (for rounded type button) or Button_NR_1 (for non-rounded type button) (only two are supported for now), also you need to write Button Text too which should be written in the format - B_ + corresponding button number such as B_1, B_2, etc. Here the text number should be same as the number of button to which you want to bind it.
+
+4. Picture - To create picture type element you have to write Picture if your picture doesn't have any rounded corners or is without a background, else you need to write it as Picture_ + corresponding number such as = Picture_1 and its background should be a rectangle whose color is what your backgrounds color it and it should be named as Picture_bg_ + corresponding number such as = Picture_bg_1.
+
+5. Background - To create background type element you have to write Background. If you're planning to use gradient color based background then its best to choose this type and not Frame.
+
+6. Entrybox - To create entrybox type element you have to write Entrybox, and if you want to add pre-loaded text in it then you can do it by writing Entrybox_ + corresponding number such as = Entrybox_1 and to add text = Entrybox_text_1.
+
+7. Line - To create a line type element you have to write Line. For now only straight lines are supporting, you cannot use lines other than at the angle of 90/-90 degrees.
+
+8. Menubox - To create a Menubox type element you have to write Menubox_ + corresponding number such as = Menubox_1 and after that its important to create two more elements which are Menubox Text and a Menubox elements List such as = Menubox_1(a rectangle), Menubox_text_1(text type element) and Menubox_list_1 (a list which contains names to add such as element1, element2, etc.).
