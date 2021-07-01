@@ -57,17 +57,37 @@ Step 1: Create a rectangle with name as Frame and its done.
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_6.png)
 
 
+## Buttons
+
+There are two types of buttons. First is Non-rounded button and second is rounded button. Remember one thing, your button will be as bigger as your text, its sides may decrease if your text is small and rectangle is big.
+
+1. ROUNDED BUTTONS
+
+Step 1: Create a rectangle and name it as Button_NR_1.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_7.png)
 
 
+Step 2: Create a text element and name it as B_1.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_8.png)
 
 
+2. NON-ROUNDED BUTTONS
+
+Step 1: Create a rectangle, also reduce the corner in corner properties.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_9.png)
 
 
+Step 2: Create text element and don't name it anything(you can also use a picture and fit it inside the button).
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_10.png)
 
 
+Step 3: Group the text/picture and the button rectangle and rename it whole as Button_R_1
 
-
-
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_11.gif)
 
 
 
