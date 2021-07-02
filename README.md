@@ -10,7 +10,7 @@ One of the main things about this program is that you don't have to write even a
 ![GUILD](https://github.com/saksham-lussqvx/images/blob/master/img_1%20(2).png)
 
 
-# Why use this program?
+# 🏆 Why use this program?
 
 1. You'll be able to produce eye-pleasing GUI's in minutes
 2. No code writing is needed as code is exported automatically
@@ -18,12 +18,12 @@ One of the main things about this program is that you don't have to write even a
 4. Full control over the program and code is easily embeddable
 5. All elements are separated and a small comment is written too to mark them (easy to recognize)
 
-# How Does this program works
+# ❓ How Does this program works
 
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/img_2%20(1).png)
 
 
-# GUI's Designed with G.U.I.L.D
+# 💻 GUI's Designed with G.U.I.L.D
 These are some of the GUI's which have been designed with G.U.I.L.D
 
 ## Face Recognition Program
@@ -36,7 +36,7 @@ These are some of the GUI's which have been designed with G.U.I.L.D
 if you've also created any GUI with G.U.I.L.D, then you can share at - saksham.lussqvx.github@gmail.com, so that others that also have a glance at such GUI's.
 
 
-# Usage
+# 📝 Usage
 ```
 git clone https://github.com/saksham-lussqvx/G.U.I.L.D
 ```
@@ -45,6 +45,6 @@ Visit - https://github.com/saksham-lussqvx/G.U.I.L.D/blob/main/Usage.md to see i
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/frame.gif)
 
 
-# Support this project
+# ❤️ Support this project
 
 You can contribute to - https://www.paypal.me/radhikalalitsolanki
