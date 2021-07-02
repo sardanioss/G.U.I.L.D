@@ -35,6 +35,9 @@ if you've also created any GUI with G.U.I.L.D, then you can share at - saksham.l
 
 
 ## Usage
+'''
+git clone 
+
 Visit - https://github.com/saksham-lussqvx/G.U.I.L.D/blob/main/Usage.md to see its usage and see the examples folder to know how to construct GUI's from scratch. Just remember to Position FRAME as x=0, y=0.
 
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/frame.gif)
