@@ -9,7 +9,6 @@ One of the main things about this program is that you don't have to write even a
 
 ![GUILD](https://github.com/saksham-lussqvx/images/blob/master/img_1%20(2).png)
 ____
-____
 # 🏆 Why use this program?
 
 1. You'll be able to produce eye-pleasing GUI's in minutes
@@ -21,7 +20,7 @@ ____
 # ❓ How Does this program works
 
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/img_2%20(1).png)
-
+____
 
 # 💻 GUI's Designed with G.U.I.L.D
 These are some of the GUI's which have been designed with G.U.I.L.D
@@ -34,7 +33,7 @@ These are some of the GUI's which have been designed with G.U.I.L.D
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/img_show_3%20(3).png)
 
 if you've also created any GUI with G.U.I.L.D, then you can share at - saksham.lussqvx.github@gmail.com, so that others that also have a glance at such GUI's.
-
+____
 
 # 📝 Usage
 ```
@@ -46,8 +45,9 @@ python3 GUILD.py
 Visit - https://github.com/saksham-lussqvx/G.U.I.L.D/blob/main/Usage.md to see its usage and see the examples folder to know how to construct GUI's from scratch. Just remember to Position FRAME as x=0, y=0.
 
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/frame.gif)
-
+____
 
 # ❤️ Support this project
 
 You can contribute to - https://www.paypal.me/radhikalalitsolanki
+____
