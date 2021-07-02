@@ -24,11 +24,13 @@ One of the main things about this program is that you don't have to write even a
 
 
 ## GUI's Designed with G.U.I.L.D
+These are some of the GUI's which have been designed with G.U.I.L.D
 
+## Face Recognition Program
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/img_show%20(1).png)
-
+## Signature [(See it here)](https://github.com/saksham-lussqvx/Signature)
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/img_show_2.png)
-
+## Text Analyzer
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/img_show_3%20(3).png)
 
 if you've also created any GUI with G.U.I.L.D, then you can share at - saksham.lussqvx.github@gmail.com, so that others that also have a glance at such GUI's.
@@ -36,7 +38,7 @@ if you've also created any GUI with G.U.I.L.D, then you can share at - saksham.l
 
 ## Usage
 ```
-git clone 
+git clone https://github.com/saksham-lussqvx/G.U.I.L.D
 ```
 Visit - https://github.com/saksham-lussqvx/G.U.I.L.D/blob/main/Usage.md to see its usage and see the examples folder to know how to construct GUI's from scratch. Just remember to Position FRAME as x=0, y=0.
 
