@@ -143,9 +143,33 @@ Step 2: Change colors of the text or the entrybox and remember to make the entry
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_16.png)
 
 
+## Line
+
+Step 1: Create a line element and then rotate it to either -90 degrees or 90 degrees.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_17.png)
+
+## Menubutton
+This element is a little more complex to create as it requires three elements.
+
+Step 1: Create a rectangle (its size doesn't matter but its position should be accurate and color too) and name it Menubox_1.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_18.png)
 
 
+Step 2: Create a text and name it as Menu_text_1 (this text's fontsize will decide the size of the menubutton so modify it accordingly).
 
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_19.png)
+
+
+Step 3: Create another text element and put it anywhere in the frame (best to place under the Menubox) and name it as Menu_list_1 and break down each word or whatever your elements are into lines.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_20.png)
+
+
+Step 4: Modification of colors of list is useless so just modify colors of Menubox and Menubox_text.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_21.png) ![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_22.png)
 
 
 
