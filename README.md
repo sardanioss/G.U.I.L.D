@@ -2,7 +2,7 @@
 A program mainly based on creating GUI's in python without any hassle of creating GUI's directly with Tkinter. G.U.I.L.D stands for Graphical User Interface Layout Designer, which is a program that converts your Figma design to python code without requiring you to type even a single line of code.
 
 
-## Introduction
+## 🎈 Introduction
 This program is more of a Figma-python converter, where you can design your GUI layout in Figma, an easy-to-use tool, and then submit the file to the program and it will convert that to Tkinter code. It uses all basic functions in Tkinter to re-create the elements and GUI design.
 
 One of the main things about this program is that you don't have to write even a single line of code, as all elements will be automatically converted to Tkinter elements with all properties and customizations. It uses Figma API to get each element and its properties to render them into code easily.
