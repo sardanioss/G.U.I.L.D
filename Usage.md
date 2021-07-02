@@ -120,6 +120,28 @@ Step 1: Create a rectangle and name it Background, then, if its a photo, copy-pa
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_13.png)
 
 
+## Entrybox/Input Field
+There are two ways in which an Entrybox can be created. For now only non-rounded corner entryboxes are supported.
+
+1. Simple Entrybox
+
+Step 1: Create a rectangle and and name it Entrybox and its done.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_14.png)
+
+
+2. Entrybox with text
+
+Step 1: Create a rectangle and name it Entrybox_1, after that create a text type element and name it Entrybox_text_1.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_15.png)
+
+
+Step 2: Change colors of the text or the entrybox and remember to make the entrybox rectangle a bit bigger as when converted, it gets a bit small.
+
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/tutorial_16.png)
+
 
 
 
