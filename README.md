@@ -33,6 +33,13 @@ One of the main things about this program is that you don't have to write even a
 
 if you've also created any GUI with G.U.I.L.D, then you can share at - saksham.lussqvx.github@gmail.com, so that others that also have a glance at such GUI's.
 
+
+## Usage
+Visit - https://github.com/saksham-lussqvx/G.U.I.L.D/blob/main/Usage.md to see its usage and see the examples folder to know how to construct GUI's from scratch. Just remember to Position FRAME as x=0, y=0.
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/frame.gif)
+
+
 ## Support this project
 
 You can contribute to - https://www.paypal.me/radhikalalitsolanki
